@@ -2,9 +2,9 @@ from pathlib import Path
 
 
 TEXT = (
-    "Everyone is asleep. A loose button rests in the saucer by the bed. "
-    "Its four holes are full of moonlight. In the next room, "
-    "the clock finishes another minute."
+    "The kettle clicks off. A last thread of steam unwinds above the chipped blue cup. "
+    "Rain darkens the doorstep. The door stands open an inch, and the small brass "
+    "hinge holds steady between the room and the rain."
 )
 
 
