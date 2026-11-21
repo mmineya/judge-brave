@@ -3,8 +3,8 @@ from pathlib import Path
 
 TEXT = (
     "The kettle clicks off. A last thread of steam unwinds above the chipped blue cup. "
-    "Rain darkens the doorstep. The door is open an inch. "
-    "Its small brass hinge holds steady between the room and the rain."
+    "Rain darkens the doorstep. The door stands open an inch, and the small brass "
+    "hinge holds steady between the room and the rain."
 )
 
 
